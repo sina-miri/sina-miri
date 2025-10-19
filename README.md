@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi, I'm Sina! 👋
+<hr/>
 <!--
 **sina-miri/sina-miri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
